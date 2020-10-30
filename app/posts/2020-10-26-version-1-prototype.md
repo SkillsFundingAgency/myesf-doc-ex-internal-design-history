@@ -168,19 +168,19 @@ Number selected indicator introduced to test with users to find out if it aided 
 ![Number selected indicator](../images/v1/number-selected.png)
 
 
-### All screenshots
+## All screenshots
 
-#### Download documents
+### Download documents
 ![Separate provider lists, auto height](../images/v1/download-documents.png)
 
-#### Download documents scroll list
+### Download documents scroll list
 ![Separate provider lists, fixed height](../images/v1/download-documents-scroll-list.png)
 
-#### Download documents combined providers
+### Download documents combined providers
 ![Combined provider lists, auto height](../images/v1/download-documents-combined-providers.png)
 
-#### Download documents combined scroll list
+### Download documents combined scroll list
 ![Combined provider lists, fixed height](../images/v1/download-documents-combined-scroll-list.png)
 
-#### Download documents date error state
+### Download documents date error state
 ![Download documents - date error state (not tested)](../images/v1/download-documents-date-error-state-not-tested.png)

@@ -48,9 +48,9 @@ All screens created/tested in this round:
 * [Deletion - 'are you sure?' page](#deletion-are-you-sure-page)
 * [Deletion - confirmation page](#deletion-confirmation-page)
 
-# Features
+## Features
 
-## Filter by uploaded today
+### Filter by uploaded today
 
 **Version 2** of the component, renamed 'Filter by uploaded today'.
 
@@ -65,7 +65,7 @@ Changes based on research findings are:
 
 ![Filter by uploaded today](../images/v4/uploaded-today-filter-v2.png)
 
-## Deletion are you sure page iteration
+### Deletion are you sure page iteration
 
 **Version 1** of the deletion 'are you sure?' page - detail.
 
@@ -83,7 +83,7 @@ Changes based on research findings are:
 
 ![Deletion 'are you sure?' page version 2 detail](../images/v4/deletion-are-you-sure-v2-detail.png)
 
-## Deletion confirmation page iteration
+### Deletion confirmation page iteration
 
 **Version 1** of the deletion confirmation page - detail.
 
