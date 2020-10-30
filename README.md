@@ -1,42 +1,23 @@
-# Design history for GOV.UK services
+# MYESF Doc Ex internal prototype
 
-A place for you to document your GOV.UK service designs.
+Designs for the ESFA MYESF Document Exchange (Doc Ex) internal prototype, Autumn-Winter 2020
 
-<https://design-history.herokuapp.com>
+Hosted with Heroku
 
-## Purpose of this project
+## Links to the Document exchange internal prototype
 
-This repository makes it easy to:
+### Prototype (Heroku app) ###
+[https://myesf-doc-ex-internal.herokuapp.com/](https://myesf-doc-ex-internal.herokuapp.com/)
 
-* screenshot your designs
-* create pages of screenshots to document designs
-* document designs using the [GOV.UK Design System](https://design-system.service.gov.uk/)
-* print pages of designs
-* make designs shareable and linkable
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal](hhttps://github.com/SkillsFundingAgency/myesf-doc-ex-internal)
 
-## Installation
+## Links to the Document exchange internal design history
 
-* Clone this repository to a folder on your computer
-* Open Terminal
-* In Terminal, change the path to the repository
-* Type `npm install` to install the dependencies
+### Design history (Heroku app) ###
+[https://myesf-doc-ex-internal-history.herokuapp.com/](https://myesf-doc-ex-internal-history.herokuapp.com/)
 
-## Working locally
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history](https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history)
 
-Most of the time you'll be adding new posts. If you're just doing this then:
-
-* Open Terminal
-* Type `npm start`
-
-This will automatically restart the application with any changes to your posts an any images applied.
-
-If you want to make changes to CSS and JavaScript, and watch for those changes, run `npm run dev`.
-
-## Example design histories
-
-* [Becoming a teacher design history](https://bat-design-history.netlify.app)
-* [Increasing children’s internet access](https://increasing-access-history.herokuapp.com/)
-
-## Technical notes
-
-The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.dev) static site generator.
+Contact Keith Symonds at Methods/DfE <keith.symonds@methods.co.uk> or <keith.symonds@education.gov.uk> for latest usernames and passwords.
