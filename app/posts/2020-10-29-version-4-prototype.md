@@ -1,16 +1,8 @@
 ---
 title: Version 4 prototype
 description: This version is focused on the 'Download your documents' and new deletion pages.
-date: 2020-10-27
+date: 2020-10-29
 ---
-
-# ESFA Document Exchange (Doc Ex) internal prototype
-
-This prototype represents the internal view of Document Exchange.
-
-# Version 4
-
-This version is focused on the **'Download your documents'** and new **deletion** pages.
 
 ## Background
 
@@ -23,9 +15,21 @@ It was not created inside the main Skills Funding Agency sfs-sitedesign prototyp
 * this prototype was built with speed in mind
 * this prototype is to be considered throwaway HTML, CSS and JavaScript - not production code
 
-## Link to the prototype
+## Links to the Document exchange internal prototype
 
-Link - to be added when DfE repo and app is created for the prototype
+### Prototype (Heroku app) ###
+[https://myesf-doc-ex-internal.herokuapp.com/](https://myesf-doc-ex-internal.herokuapp.com/)
+
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal](hhttps://github.com/SkillsFundingAgency/myesf-doc-ex-internal)
+
+## Links to the Document exchange internal design history
+
+### Design history (Heroku app) ###
+[https://myesf-doc-ex-internal-history.herokuapp.com/](https://myesf-doc-ex-internal-history.herokuapp.com/)
+
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history](https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history)
 
 ## Features prototyped
 
@@ -50,7 +54,7 @@ All screens created/tested in this round:
 
 **Version 2** of the component, renamed 'Filter by uploaded today'.
 
-![Filter by uploaded today](../../assets/images/v3/uploaded-today-filter-v1.png)
+![Filter by uploaded today](../images/v3/uploaded-today-filter-v1.png)
 
 Changes based on research findings are:
 
@@ -59,13 +63,13 @@ Changes based on research findings are:
 
 **Version 3** of the component, renamed 'Filter by uploaded today'.
 
-![Filter by uploaded today](../../assets/images/v4/uploaded-today-filter-v2.png)
+![Filter by uploaded today](../images/v4/uploaded-today-filter-v2.png)
 
 ## Deletion are you sure page iteration
 
 **Version 1** of the deletion 'are you sure?' page - detail.
 
-![Deletion 'are you sure?' page version 1 detail](../../assets/images/v4/deletion-are-you-sure-detail.png)
+![Deletion 'are you sure?' page version 1 detail](../images/v4/deletion-are-you-sure-detail.png)
 
 Changes based on research findings are:
 
@@ -77,13 +81,13 @@ Changes based on research findings are:
 
 **Version 2** of the deletion 'are you sure?' page - detail.
 
-![Deletion 'are you sure?' page version 2 detail](../../assets/images/v4/deletion-are-you-sure-v2-detail.png)
+![Deletion 'are you sure?' page version 2 detail](../images/v4/deletion-are-you-sure-v2-detail.png)
 
 ## Deletion confirmation page iteration
 
 **Version 1** of the deletion confirmation page - detail.
 
-![Deletion confirmation page version 1 detail](../../assets/images/v4/deletion-confirmation-detail.png)
+![Deletion confirmation page version 1 detail](../images/v4/deletion-confirmation-detail.png)
 
 Changes based on research findings are:
 
@@ -95,18 +99,18 @@ Changes based on research findings are:
 
 **Version 2** of the deletion confirmation page - detail.
 
-![Deletion confirmation page version 2 detail](../../assets/images/v4/deletion-confirmation-v2-detail.png)
+![Deletion confirmation page version 2 detail](../images/v4/deletion-confirmation-v2-detail.png)
 
 ## All screenshots
 
 ### Download documents
-![Download your documents version 4](../../assets/images/v4/download-documents-v4.png)
+![Download your documents version 4](../images/v4/download-documents-v4.png)
 
 ### Download documents advanced user view
-![Download your documents - advanced user view version 2](../../assets/images/v4/download-documents-advanced-user-v2.png)
+![Download your documents - advanced user view version 2](../images/v4/download-documents-advanced-user-v2.png)
 
 ### Deletion are you sure page
-![Deletion 'are you sure?' page version 2](../../assets/images/v4/deletion-are-you-sure-v2.png)
+![Deletion 'are you sure?' page version 2](../images/v4/deletion-are-you-sure-v2.png)
 
 ### Deletion confirmation page
-![Deletion confirmation page version 2](../../assets/images/v4/deletion-confirmation-v2.png)
+![Deletion confirmation page version 2](../images/v4/deletion-confirmation-v2.png)

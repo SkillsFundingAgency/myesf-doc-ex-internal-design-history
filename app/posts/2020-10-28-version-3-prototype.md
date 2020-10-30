@@ -1,16 +1,8 @@
 ---
 title: Version 3 prototype
 description: This version is focused on the 'Download your documents' and new deletion pages.
-date: 2020-10-27
+date: 2020-10-28
 ---
-
-# ESFA Document Exchange (Doc Ex) internal prototype
-
-This prototype represents the internal view of Document Exchange.
-
-# Version 3
-
-This version is focused on the **'Download your documents'** and new **deletion** pages.
 
 ## Background
 
@@ -23,9 +15,21 @@ It was not created inside the main Skills Funding Agency sfs-sitedesign prototyp
 * this prototype was built with speed in mind
 * this prototype is to be considered throwaway HTML, CSS and JavaScript - not production code
 
-## Link to the prototype
+## Links to the Document exchange internal prototype
 
-Link - to be added when DfE repo and app is created for the prototype
+### Prototype (Heroku app) ###
+[https://myesf-doc-ex-internal.herokuapp.com/](https://myesf-doc-ex-internal.herokuapp.com/)
+
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal](hhttps://github.com/SkillsFundingAgency/myesf-doc-ex-internal)
+
+## Links to the Document exchange internal design history
+
+### Design history (Heroku app) ###
+[https://myesf-doc-ex-internal-history.herokuapp.com/](https://myesf-doc-ex-internal-history.herokuapp.com/)
+
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history](https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history)
 
 ## Features prototyped
 
@@ -60,7 +64,7 @@ All screens created/tested in this round:
 
 **Version 1** of the 'Filter by time period' component.
 
-![Filter by time period version 1](../../assets/images/v1/time-period-filter-v1.png)
+![Filter by time period version 1](../images/v1/time-period-filter-v1.png)
 
 Changes based on research findings are:
 
@@ -70,17 +74,17 @@ Changes based on research findings are:
 
 **Version 2** of the component, renamed 'Filter by uploaded today'.
 
-![Filter by uploaded today](../../assets/images/v3/uploaded-today-filter-v1.png)
+![Filter by uploaded today](../images/v3/uploaded-today-filter-v1.png)
 
 An **alternative version** of this component was designed and tested with research participants. Its functionality and usability did not meet user expectations.
 
-![Alternative Filter by uploaded today design](../../assets/images/v3/alternative-today-filter.png)
+![Alternative Filter by uploaded today design](../images/v3/alternative-today-filter.png)
 
 ## Filter by provider type
 
 **Version 2** of the 'Filter by provider type' component.
 
-![Filter by provider type version 2](../../assets/images/v2/combined-providers-list.png)
+![Filter by provider type version 2](../images/v2/combined-providers-list.png)
 
 Changes based on research findings are:
 
@@ -89,19 +93,19 @@ Changes based on research findings are:
 
 **Version 3** of the 'Filter by provider type' component.
 
-![Filter by provider type version 3](../../assets/images/v3/filter-by-provider-type-v3.png)
+![Filter by provider type version 3](../images/v3/filter-by-provider-type-v3.png)
 
 ## Filter by team
 
 **Version 1** of the 'Filter by team' component (Advanced users only). This component was added to allow 'Advanced users' to view only 1 team's documents at a time. This was needed to provide a solution to an issue with downloading documents from multiple teams simultaneously.
 
-![Filter by team](../../assets/images/v3/filter-by-team.png)
+![Filter by team](../images/v3/filter-by-team.png)
 
 ## Alternative table format
 
 **Original** table format.
 
-![Original table format](../../assets/images/v3/table-format-v1.png)
+![Original table format](../images/v3/table-format-v1.png)
 
 Changes based on research findings are:
 
@@ -114,33 +118,33 @@ Changes based on research findings are:
 
 **Version 2** of the table format.
 
-![Table format version 2](../../assets/images/v3/alternative-table-format.png)
+![Table format version 2](../images/v3/alternative-table-format.png)
 
 ## Removing the document name link
 
 The document name link was removed to help users to avoid downloading documents by mistake with a single click. This was based on testing, where observed user behaviour showed that documents were never intentionally downloaded using the link - users opted for selecting the document using its checkbox and clicking the 'Download selected documents' button instead.
 
-![Filter by team](../../assets/images/v3/document-name-link-removed.png)
+![Filter by team](../images/v3/document-name-link-removed.png)
 
 ## Revising the table row font sizes
 
 The table row font sizes were revised, with secondary information using the **govuk-body-s** class, to aid differentiation from primary information.
 
-![Filter by team](../../assets/images/v3/table-font-size-revision.png)
+![Filter by team](../images/v3/table-font-size-revision.png)
 
 ## All screenshots
 
 ### Download documents
-![Download your documents version 3](../../assets/images/v3/download-documents-v3.png)
+![Download your documents version 3](../images/v3/download-documents-v3.png)
 
 ### Download documents advanced user view
-![Download your documents - advanced user view](../../assets/images/v3/download-documents-advanced-user.png)
+![Download your documents - advanced user view](../images/v3/download-documents-advanced-user.png)
 
 ### Download documents alternative table format
-![Download your documents - alternative table format](../../assets/images/v3/download-documents-alternative-table-format.png)
+![Download your documents - alternative table format](../images/v3/download-documents-alternative-table-format.png)
 
 ### Deletion are you sure page
-![Deletion 'are you sure?' page](../../assets/images/v3/deletion-are-you-sure.png)
+![Deletion 'are you sure?' page](../images/v3/deletion-are-you-sure.png)
 
 ### Deletion confirmation page
-![Deletion confirmation page](../../assets/images/v3/deletion-confirmation.png)
+![Deletion confirmation page](../images/v3/deletion-confirmation.png)

@@ -1,7 +1,7 @@
 ---
 title: Version 1 prototype
 description: This version is focused on the 'Download your documents' page.
-date: 2020-10-27
+date: 2020-10-26
 ---
 
 ## Background
@@ -15,9 +15,21 @@ It was not created inside the main Skills Funding Agency [sfs-sitedesign](https:
 * this prototype was built with speed in mind
 * this prototype is to be considered throwaway HTML, CSS and JavaScript - not production code
 
-## Link to the prototype
+## Links to the Document exchange internal prototype
 
-Link - to be added when DfE repo and app is created for the prototype
+### Prototype (Heroku app) ###
+[https://myesf-doc-ex-internal.herokuapp.com/](https://myesf-doc-ex-internal.herokuapp.com/)
+
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal](hhttps://github.com/SkillsFundingAgency/myesf-doc-ex-internal)
+
+## Links to the Document exchange internal design history
+
+### Design history (Heroku app) ###
+[https://myesf-doc-ex-internal-history.herokuapp.com/](https://myesf-doc-ex-internal-history.herokuapp.com/)
+
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history](https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history)
 
 ## Features prototyped
 

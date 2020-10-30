@@ -1,16 +1,8 @@
 ---
 title: Version 5 prototype
 description: This version is focused on the 'Download your documents' and 'Edit product' pages.
-date: 2020-10-27
+date: 2020-10-30
 ---
-
-# ESFA Document Exchange (Doc Ex) internal prototype
-
-This prototype represents the internal view of Document Exchange.
-
-# Version 5
-
-This version is focused on the **'Download your documents'** and **'Edit product'** pages.
 
 ## Background
 
@@ -23,9 +15,21 @@ It was not created inside the main Skills Funding Agency sfs-sitedesign prototyp
 * this prototype was built with speed in mind
 * this prototype is to be considered throwaway HTML, CSS and JavaScript - not production code
 
-## Link to the prototype
+## Links to the Document exchange internal prototype
 
-Link - to be added when DfE repo and app is created for the prototype
+### Prototype (Heroku app) ###
+[https://myesf-doc-ex-internal.herokuapp.com/](https://myesf-doc-ex-internal.herokuapp.com/)
+
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal](hhttps://github.com/SkillsFundingAgency/myesf-doc-ex-internal)
+
+## Links to the Document exchange internal design history
+
+### Design history (Heroku app) ###
+[https://myesf-doc-ex-internal-history.herokuapp.com/](https://myesf-doc-ex-internal-history.herokuapp.com/)
+
+### GitHub repo ###
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history](https://github.com/SkillsFundingAgency/myesf-doc-ex-internal-design-history)
 
 ## Features prototyped
 
@@ -55,7 +59,7 @@ All screens created/tested in this round:
 
 A 'Search by UKPRN' component was added to the 'Download your documents' page.
 
-![Search by UKPRN](../../assets/images/v5/search-by-ukprn.png)
+![Search by UKPRN](../images/v5/search-by-ukprn.png)
 
 This component supports user behaviours:
 
@@ -66,7 +70,7 @@ This component supports user behaviours:
 
 **Version 2** of the 'Edit product' page. Version 1 was built without UX design input.
 
-![Edit product page version 2](../../assets/images/v5/edit-product-v2.png)
+![Edit product page version 2](../images/v5/edit-product-v2.png)
 
 Suggested changes are:
 
@@ -78,7 +82,7 @@ Suggested changes are:
 
 **Version 1** of the 'Edit product' page error states.
 
-![Edit product error states](../../assets/images/v5/edit-product-v2-error-states.png)
+![Edit product error states](../images/v5/edit-product-v2-error-states.png)
 
 Error messages/states created for:
 
@@ -93,7 +97,7 @@ Error messages/states created for:
 
 The product information is displayed in a GOV.UK design system [summary list](https://design-system.service.gov.uk/components/summary-list/) format. Each entry can be amended by using the associated 'Change' link.
 
-![Edit product 'Check your changes' page](../../assets/images/v5/edit-product-confirm.png)
+![Edit product 'Check your changes' page](../images/v5/edit-product-confirm.png)
 
 ## Filter by date error states MVP
 
@@ -117,7 +121,7 @@ It is hypothesised that users will 'learn' the structure of this list, and will 
 
 **Previous version** (Version 3) of the 'Filter by provider type' component.
 
-![Filter by provider type version 3](../../assets/images/v3/filter-by-provider-type-v3.png)
+![Filter by provider type version 3](../images/v3/filter-by-provider-type-v3.png)
 
 This iteration of 'Filter by provider type' includes:
 
@@ -127,24 +131,24 @@ This iteration of 'Filter by provider type' includes:
 
 **NEW version** (Version 4) of the 'Filter by provider type' component.
 
-![Filter by provider type version 3](../../assets/images/v5/filter-by-provider-type-v4.png)
+![Filter by provider type version 3](../images/v5/filter-by-provider-type-v4.png)
 
 ## All screenshots
 
 ### Download documents
-![Download your documents version 5](../../assets/images/v5/download-documents-v5.png)
+![Download your documents version 5](../images/v5/download-documents-v5.png)
 
 ### Download documents advanced user view
-![Download your documents - advanced user view version 3](../../assets/images/v5/download-documents-advanced-user-v3.png)
+![Download your documents - advanced user view version 3](../images/v5/download-documents-advanced-user-v3.png)
 
 ### Edit product
-![Edit product page version 2](../../assets/images/v5/edit-product-v2.png)
+![Edit product page version 2](../images/v5/edit-product-v2.png)
 
 ### Edit product error states
-![Edit product error states](../../assets/images/v5/edit-product-v2-error-states.png)
+![Edit product error states](../images/v5/edit-product-v2-error-states.png)
 
 ### Edit product Check your changes
-![Edit product Check your changes](../../assets/images/v5/edit-product-confirm.png)
+![Edit product Check your changes](../images/v5/edit-product-confirm.png)
 
 ### Date error states MVP
-![Date error states MVP](../../assets/images/v5/date-error-states-mvp.png)
+![Date error states MVP](../images/v5/date-error-states-mvp.png)
