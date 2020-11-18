@@ -131,7 +131,7 @@ This iteration of 'Filter by provider type' includes:
 
 **NEW version** (Version 4) of the 'Filter by provider type' component.
 
-![Filter by provider type version 3](../images/v5/filter-by-provider-type-v4.png)
+![Filter by provider type version 4](../images/v5/filter-by-provider-type-v4.png)
 
 ## All screenshots
 
