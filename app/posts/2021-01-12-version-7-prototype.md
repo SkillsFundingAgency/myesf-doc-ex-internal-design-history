@@ -1,7 +1,7 @@
 ---
 title: Version 7 prototype
 description: This version is focused on the 'Download your documents' and 'Publish your documents' pages.
-date: 2021-01-11
+date: 2021-01-12
 ---
 
 ## Background
@@ -26,7 +26,7 @@ It was not created inside the main Skills Funding Agency sfs-sitedesign prototyp
 
 <!--- DONE -->
 ### GitHub repo ###
-[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal](hhttps://github.com/SkillsFundingAgency/myesf-doc-ex-internal)
+[https://github.com/SkillsFundingAgency/myesf-doc-ex-internal](https://github.com/SkillsFundingAgency/myesf-doc-ex-internal)
 
 ## Links to the Document exchange internal design history
 
