@@ -1,6 +1,6 @@
 ---
 title: Version 2 prototype
-description: This version is focused on the 'Download your documents' page.
+description: This version is focused on the 'Download your documents' page
 date: 2020-10-27
 ---
 

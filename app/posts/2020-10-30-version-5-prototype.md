@@ -1,6 +1,6 @@
 ---
 title: Version 5 prototype
-description: This version is focused on the 'Download your documents' and 'Edit product' pages.
+description: This version is focused on the 'Download your documents' and 'Edit product' pages
 date: 2020-10-30
 ---
 

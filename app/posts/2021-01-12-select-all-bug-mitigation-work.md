@@ -1,5 +1,5 @@
 ---
-title: 'Select all' bug mitigation work
+title: Select all bug mitigation work
 description: Rewrote description to see if error still happens
 date: 2021-01-12
 ---

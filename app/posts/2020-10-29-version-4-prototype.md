@@ -1,6 +1,6 @@
 ---
 title: Version 4 prototype
-description: This version is focused on the 'Download your documents' and new deletion pages.
+description: This version is focused on the 'Download your documents' and new deletion pages
 date: 2020-10-29
 ---
 
