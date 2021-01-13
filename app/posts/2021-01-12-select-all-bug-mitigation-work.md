@@ -1,6 +1,6 @@
 ---
 title: Select all bug mitigation work
-description: Rewrote description to see if error still happens
+description: This version focuses on the ‘Download your documents’ and ‘Publish your documents’ pages
 date: 2021-01-12
 ---
 
