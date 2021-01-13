@@ -14,7 +14,19 @@ const domain = 'http://localhost:3000'
  * ]
  */
 const paths = [
-  { title: 'Index page', path: '/'}
+  { title: 'Index page', path: '/'},
+  { title: 'Version index page', path: '/v7/v7'},
+  { title: 'Version index page', path: '/v7/advanced-user/document-exchange/download-delete-are-you-sure'},
+  { title: 'Version index page', path: '/v7/advanced-user/document-exchange/download-documents'},
+  { title: 'Service start page', path: '/v7/document-exchange/confirmation-14to16'},
+  { title: 'Service start page', path: '/v7/document-exchange/documents-to-publish-confirm-14to16'},
+  { title: 'Service start page', path: '/v7/document-exchange/download-documents'},
+  { title: 'Service start page', path: '/v7/document-exchange/file-share'},
+  { title: 'Service start page', path: '/v7/document-exchange/home'},
+  { title: 'Service start page', path: '/v7/document-exchange/publish-documents'},
+  { title: 'Service start page', path: '/v7/document-exchange/sign-in'},
+  { title: 'Service start page', path: '/v7/document-exchange/start'},
+  { title: 'Version index page', path: '/v7/external/documents-received-from-esfa'}
 ]
 
 /*
