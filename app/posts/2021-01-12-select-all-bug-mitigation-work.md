@@ -1,6 +1,6 @@
 ---
 title: 'Select all' bug mitigation work
-description: This version is focused on the 'Download your documents' and 'Publish your documents' pages.
+description: Rewrote description to see if error still happens
 date: 2021-01-12
 ---
 
